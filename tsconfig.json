@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"outDir": "./dist/",
+		"noImplicitAny": false,
+		"module": "es6",
+		"target": "es5",
+		"allowJs": false,
+		"lib": [
+			"dom",
+			"es6",
+			"es2015.promise",
+			"es2016.array.include",
+			"es2017.object"
+		]
+	},
+	"include": [
+		"src/**/*"
+	]
+}

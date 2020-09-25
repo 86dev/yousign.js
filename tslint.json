@@ -1,0 +1,11 @@
+{
+	"extends": "tslint:recommended",
+	"rules": {
+		"array-type": [true, "array"],
+		"no-console": [true],
+		"indent": [true, "tabs", 4],
+		"semicolon": [true, "never"],
+		"max-line-length": false,
+		"completed-docs": true
+	}
+}
